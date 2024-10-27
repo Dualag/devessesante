@@ -9,5 +9,8 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'devessesante';
+  title = 'Leïla DEVESSE (LD Juris)';
+  description ='Facilitez votre quotidien en confiant vos formalités juridiques !';
+  pp = '/assets/ppLinkedIn.jpg';
+  bkg = '/assets/bkgLinkedIn.jpg';
 }
